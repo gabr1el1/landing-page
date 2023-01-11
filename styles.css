@@ -131,7 +131,7 @@ body{
     padding: 2% 10%;
     justify-content: center;
     color: white;
-    background-image: url("/images/galaxy-bg.jpg");
+    background-image: url("images/galaxy-bg.jpg");
     background-size: cover;
     font-family: 'Pacifico', cursive;
 }
