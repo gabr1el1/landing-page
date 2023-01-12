@@ -11,7 +11,7 @@ body{
 .big-header{
     background-color: rgb(39, 12, 52);
     padding: 2% 10%;
-    background-image: url("images/galaxy-bg.jpg");
+    background-image: url("images/galaxy-bg2.jpg");
     background-size: cover;
 }
 .header{
@@ -64,7 +64,7 @@ body{
     
 }
 .info button{
-    background-color: rgb(65, 18, 91);
+    background-color: rgb(34, 18, 91);
     color: white;
     width: 120px;
     padding: 8px 20px;
@@ -131,7 +131,7 @@ body{
     padding: 2% 10%;
     justify-content: center;
     color: white;
-    background-image: url("images/galaxy-bg.jpg");
+    background-image: url("images/galaxy-bg2.jpg");
     background-size: cover;
     font-family: 'Pacifico', cursive;
 }
@@ -154,7 +154,7 @@ body{
     align-items: center;
     gap: 30px;
     padding: 15px 50px;
-    background-color: rgb(65, 18, 91); 
+    background-color: rgb(34, 18, 91); 
     flex: 1;
     box-shadow: 5px 10px 10px grey;
 }
@@ -186,6 +186,6 @@ body{
     padding: 20px;
     color: white;
     background-color: rgb(39, 12, 52);
-    background-image: url("images/galaxy-bg.jpg");
+    background-image: url("images/galaxy-bg2.jpg");
     background-size: cover;
 }
