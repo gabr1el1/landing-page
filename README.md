@@ -8,3 +8,4 @@ Wacom tablet by Pixabay.
 Nintendo Switch by Pixabay.
 MacBook by Junior Teixeira.
 Kindle by özgür.
+Gradient images by Gradienta.
